@@ -4,9 +4,9 @@
 Clash Finder is a web application designed to search and analyze data from League of Legends games. It allows users to quickly search for Clash team information and player statistics.
 
 ## Features
-- Search for Clash team data.
+- Search for Clash team.
 - Display individual player statistics.
-- Match history and detailed analysis of individual games.
+- Match history.
 
 ## Technologies
 This project was developed using:
