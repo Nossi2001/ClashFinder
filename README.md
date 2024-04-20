@@ -20,3 +20,15 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nossi201/Clash-Finder.git
+## Screenshots
+
+Below are some screenshots of the application:
+
+### Home Page
+![Home Page](static/img/screenshoot/index.png)
+
+### Player History
+![Player History](static/img/screenshoot/Player%20History%201.png)
+
+### Player History Detail View
+![Player History Detail View](static/img/screenshoot/Player%20History%202.png)
