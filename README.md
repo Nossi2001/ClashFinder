@@ -25,10 +25,10 @@ To install and run this project locally, follow these steps:
 Below are some screenshots of the application:
 
 ### Home Page
-![Home Page](static/img/screenshoot/index.png)
+![Home Page](static/img/screenshoots/index.png)
 
 ### Player History
-![Player History](static/img/screenshoot/Player%20History%201.png)
+![Player History](static/img/screenshoots/Player%20History%201.png)
 
 ### Player History Detail View
-![Player History Detail View](static/img/screenshoot/Player%20History%202.png)
+![Player History Detail View](static/img/screenshoots/Player%20History%202.png)
