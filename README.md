@@ -20,9 +20,16 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nossi201/Clash-Finder.git
-2. change API_KEY in question.py:
+2. install flask/requests
+   ```bash
+   python -m pip install flask
+   python -m pip install requests
+   
+3. Change API_KEY in question.py:
    API_KEY = "****************"
-(u can get it here https://developer.riotgames.com/)
+
+   (u can get it here https://developer.riotgames.com/)
+
 ## Screenshots
 
 Below are some screenshots of the application:
